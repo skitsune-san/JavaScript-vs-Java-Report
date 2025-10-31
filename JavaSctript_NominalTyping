@@ -1,0 +1,4 @@
+var num = 3
+num = 'Three'
+
+console.log(num)
