@@ -1,0 +1,30 @@
+Type-Checking in Java CMSC 308 – Pair Activity Member: Dela Rosa, Erol Dwayne
+
+Description: This file contains JavaScript code examples that demonstrate different type-checking systems.
+
+Included Files:
+
+JavaScript_DynamicTyping
+Shows flexibility of the JavaScipt Language
+Java_WeakTyping
+Shows the implicit tyoing in which could lead to runtime errors
+Java_StructuralTyping
+Shows the compatibility is determined by an object's structure (its properties and methods) rather than its name or declaration.
+JavaScript_RuntimeError
+Shows the sample of runtime error
+
+
+How to Run:
+
+Go to https://www.onlinegdb.com/
+Paste the code or open each file link from my GitHub.
+Select JavaScript as Programming Language
+Click “Run” to see the results.
+
+
+OnlineGDB Links:
+
+Structural Typing: https://onlinegdb.com/h7VYwAnRc3
+Dynamic Typing: https://onlinegdb.com/BRmigXO9iL
+Weak Typing: https://onlinegdb.com/Lqbzx3Hz4U
+Runtime Error: https://onlinegdb.com/7NWg4L5FF1
