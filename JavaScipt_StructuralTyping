@@ -1,0 +1,9 @@
+let dog = {noise: 'bark', age: 45 }
+let cat = {noise: 'meow', age: 40}
+
+function animalNoise(animal){
+    console.log(animal.noise)
+}
+
+ animalNoise(dog)
+ animalNoise(cat)
