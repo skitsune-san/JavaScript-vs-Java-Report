@@ -1,0 +1,6 @@
+let num
+console.log(num)
+
+num = 'three'
+let num2 = 3 
+console.log(num - num2)
